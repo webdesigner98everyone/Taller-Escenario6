@@ -1,5 +1,8 @@
-# Welcome to GitHub Desktop!
+Conjuntos La Forma De Unificar Datos
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+JUAN CARLOS BOTERO MARTINEZ 
+LUIS ALBERTO FORERO GUZMAN 
+ANEŽKA FRAIRE CAMACHO 
+HECTOR ANIBAL LOPEZ LOPEZ 
+GABRIEL DAVID MENDOZA PERILLA 
+LEYBIS MARIA MUNOZ BARRETO
